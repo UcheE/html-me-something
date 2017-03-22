@@ -1,0 +1,64 @@
+p {
+    margin-top: 25px 50px 75px 100px;
+    font-family: cursive;
+    color: black;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+h2 {
+    font-family: sans-serif;
+    color: black;
+    font-size: 30px
+}
+li {
+    font-size: 16px;
+    font-family:fantasy;
+
+}
+img {
+    display: block;
+    border: 10px solid black;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+}
+#truths {
+    font-size: 25px;
+    background-color: violet;
+    text-align: center;
+}
+#favPlace {
+    font-size: 25px;
+    background-color: green;
+    text-align: center;
+}
+
+#yrTrvl {
+    font-size: 25px;
+    background-color: orange;
+    text-align: center;
+}
+#lrnTrvl {
+    font-size: 25px;
+    background-color: red;
+    text-align: center;
+}
+a {
+    text-decoration: underline;;
+    color: blue;
+    family-font: fantasy;
+}
+div {
+    background-color: #006666;
+    border: 10px solid black;
+    padding-top: 30px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+
+}
